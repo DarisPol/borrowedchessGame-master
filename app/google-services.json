@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526699867379",
+    "firebase_url": "https://deloss-chessgame.firebaseio.com",
+    "project_id": "deloss-chessgame",
+    "storage_bucket": "deloss-chessgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526699867379:android:a27b6a5c00aa25f8",
+        "android_client_info": {
+          "package_name": "com.example.ajedrez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526699867379-cih8dkav23hrrrkr64ol4ts1j6eig06t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ajedrez",
+            "certificate_hash": "1c48dd5600cecb41cda2d335606e77ef4091d037"
+          }
+        },
+        {
+          "client_id": "526699867379-tdkl2ve9vdhiff2cedq6fbm3q6lfjh82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA47fvtnl-QGYQjUXRF-wW-cnQaAkv3e1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526699867379-tdkl2ve9vdhiff2cedq6fbm3q6lfjh82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

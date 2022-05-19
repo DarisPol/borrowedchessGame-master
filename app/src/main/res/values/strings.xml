@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="play_online">Play Online!</string>
+    <string name="play_offline">Play Offline!</string>
+    <string name="reset">Reset</string>
+    <string name="finishGame">Quit</string>
+    <string name="whitesWin">Whites Win!</string>
+    <string name="blacksWin">Blacks Win!</string>
+    <string name="whitesTurn">It\'s white\'s turn</string>
+    <string name="blacksTurn">It\'s black\'s turn</string>
+    <string name="moveNotPossible">That move is not possible</string>
+    <string name="exit">Exit</string>
+</resources>
